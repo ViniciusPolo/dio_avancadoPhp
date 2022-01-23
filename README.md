@@ -2,4 +2,3 @@
 
 ## Utilizado composer PHP para criação de biblioteca
 
- 
