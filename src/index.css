@@ -1,0 +1,29 @@
+body {
+    background: linear-gradient(90deg, rgb(50,50,150), rgb(50,50,255));
+    
+}
+
+div {
+    font-size: larger;
+    position: relative;
+    margin: 10px 500px 50px 200px;
+    background-color: rgb(150,150,255);
+    border: 10px yellow solid;
+    display:flex;
+    font-weight: bolder;
+    padding: 50px;
+    text-align: center;
+}
+input {
+    padding: 10px;
+}
+
+pre {
+    position: relative;
+    background-color: rgb(150,150,255);
+    border: 10px yellow solid;
+    font-size: larger;
+    font-weight: bolder;
+    margin: 10px 500px 50px 200px;
+
+}
