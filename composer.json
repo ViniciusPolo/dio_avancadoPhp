@@ -1,0 +1,22 @@
+{
+    "name": "vpolo/dio_avancado-php",
+    "description": "Busca de cep online",
+    "type": "library",
+    "autoload": {
+        "psr-0": {
+            "Search": "src/"
+        },
+        "psr-4": {
+            "Vpolo\\DioAvancadoPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ViniciusPolo",
+            "email": "admviniciuspolo@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.2.0"
+    }
+}
